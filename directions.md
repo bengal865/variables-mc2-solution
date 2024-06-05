@@ -35,7 +35,7 @@ Write a script that:
 - uses a third variable to tell me how much of a down payment you made on the vehicle you decided to buy
     - Assign a float to your down payment variable (a float is a number with a decimal point)
  
-## Sample O)utput
+## Sample Output
 ![Sample output](sample-output.png)
 
 
