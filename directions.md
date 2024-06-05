@@ -19,6 +19,7 @@
 
 - Show me what you know how to do (even if it's not the entire project)
 - Always give me your best effort
+- Always check your spelling, grammar and punctuation before submitting your work
 - Add a comment block to the top of your script, like so:
 
 ```python
